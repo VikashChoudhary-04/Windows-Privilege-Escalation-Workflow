@@ -492,14 +492,6 @@ References will be added as individual workflow sections are developed.
 
 ---
 
-## Status
-
-**Repository Status:** 🚧 In Progress
-
-The workflow is being developed progressively, starting with the fundamentals and moving toward advanced Windows privilege escalation techniques.
-
----
-
 ## Disclaimer
 
 This repository is intended for cybersecurity education, authorized security testing, and controlled laboratory environments.
